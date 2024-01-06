@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suman Sarkar
 - 👀 I’m interested in Data Analytics & Machine Learning
-- 🌱 I’m currently learning different Cloud Services
+- 🌱 I’m currently learning different Cloud Services & MLOPS
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach Me at ssarkar445@gmail.com
 
