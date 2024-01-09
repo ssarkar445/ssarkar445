@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Suman Sarkar
-- 🌱 I’m currently learning different Cloud Services & MLOPS
-- 💞️ I’m looking to collaborate on ...
-- Mail : ssarkar445@gmail.com
+### 👋 Hi, I’m @Suman Sarkar
+### 🌱 I’m currently learning different Cloud Services & MLOPS
+### 💞️ I’m looking to collaborate on ...
+### Mail : ssarkar445@gmail.com
 
 [<img align="left" alt="ssarkar445 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="ssarkar445 | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png"/>][LeetCode]
