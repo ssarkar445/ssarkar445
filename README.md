@@ -133,16 +133,25 @@ I’m particularly interested in building systems around:
 
 ## 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=ssarkar445&show_icons=true&hide_border=true&rank_icon=github" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ssarkar445&show_icons=true&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssarkar445&layout=compact&hide_border=true" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssarkar445&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ssarkar445&hide_border=true" />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ssarkar445&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
