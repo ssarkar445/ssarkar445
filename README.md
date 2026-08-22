@@ -134,15 +134,11 @@ I’m particularly interested in building systems around:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssarkar445&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssarkar445&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ssarkar445&hide_border=true" alt="GitHub Streak" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
