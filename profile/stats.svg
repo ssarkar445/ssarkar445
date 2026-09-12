@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Suman Sarkar&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 39, Total Commits  (last year) : 22, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 39, Total Commits  (last year) : 27, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 199.57162584558912;
+        stroke-dashoffset: 199.02906730521858;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >22</text>
+      >27</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
